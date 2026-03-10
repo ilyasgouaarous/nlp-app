@@ -1,0 +1,25 @@
+# Web app
+streamlit
+
+# AI / Transformers
+transformers
+torch
+accelerate
+sentencepiece
+safetensors
+
+# Data processing
+pandas
+
+# File processing
+pypdf
+python-docx
+
+# Database
+mysql-connector-python
+
+# Text to Speech
+edge-tts
+
+# Utilities
+numpy
